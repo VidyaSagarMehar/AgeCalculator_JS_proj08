@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a Full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Age calculator Javascript Assignment
@@ -31,9 +31,11 @@ https://agecalculatorwebapp.netlify.app/
 
 
 ## Screenshots
+![Age_Calculator](https://user-images.githubusercontent.com/92782806/211470042-fe5beab5-eedd-4f01-beed-f17a92fdc185.png)
 
-![](./Image/Screenshot%201.png)
-![](./Image/Screenshot%202.png)
+![Screenshot 2](https://user-images.githubusercontent.com/92782806/211470052-4a215c63-44b1-49b6-a785-b3f34cb0e109.png)
+
+
 
 ## Feedback
 
